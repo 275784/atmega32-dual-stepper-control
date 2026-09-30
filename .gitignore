@@ -1,0 +1,20 @@
+# IDE settings
+.vs/
+
+# Build output
+Debug/
+Release/
+
+# AVR build files
+*.o
+*.elf
+*.hex
+*.eep
+*.map
+
+# Temporary files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
