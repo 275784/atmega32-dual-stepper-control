@@ -148,6 +148,3 @@ The firmware is divided into three functional modules:
 ## Author
 
 **Konrad Misztela**
-
-Intelligent Electronics  
-Wrocław University of Science and Technology
